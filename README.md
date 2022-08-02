@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 925 Contributions in the Year 2021
+> 🏆 21 Contributions in the Year 2022
  > 
 > 📦 244.8 kB Used in GitHub's Storage 
  > 
@@ -11,7 +11,7 @@
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 36 Private Repositories  
+> 🔑 38 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -19,20 +19,16 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Terraform                1 hr 37 mins        ███████████████████░░░░░░   77.04% 
-Python                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
-Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.89% 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 6 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 31/12/2021
+ Last Updated on 02/08/2022
 <!--END_SECTION:waka-->
