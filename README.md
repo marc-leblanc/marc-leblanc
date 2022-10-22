@@ -31,5 +31,5 @@ Linux                    1 hr 5 mins         ███████████�
 ```
 
 
- Last Updated on 21/10/2022
+ Last Updated on 22/10/2022
 <!--END_SECTION:waka-->
