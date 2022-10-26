@@ -19,14 +19,13 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    15 mins             █████████████████████████   99.93% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
