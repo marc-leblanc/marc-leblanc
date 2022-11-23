@@ -19,14 +19,13 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    15 mins             ███████████████░░░░░░░░░░   61.61% 
-Terraform                9 mins              █████████░░░░░░░░░░░░░░░░   38.39%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
