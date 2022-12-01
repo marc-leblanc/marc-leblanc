@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2049%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -9,7 +9,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 39 Private Repositories  
  > 
