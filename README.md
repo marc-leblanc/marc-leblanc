@@ -31,5 +31,5 @@ Linux                    3 mins              ███████████�
 ```
 
 
- Last Updated on 01/12/2022
+ Last Updated on 02/12/2022
 <!--END_SECTION:waka-->
