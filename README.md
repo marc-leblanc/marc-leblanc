@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2030%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -19,13 +19,15 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   41 mins             ███████████████████░░░░░░   78.11% 
+Text                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.57% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  52 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    52 mins             █████████████████████████   100.0%
 
 ```
 
