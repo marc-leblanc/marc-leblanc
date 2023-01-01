@@ -3,7 +3,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 113 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 245.0 kB Used in GitHub's Storage 
  > 
@@ -32,5 +32,5 @@ Linux                    52 mins             ███████████�
 ```
 
 
- Last Updated on 31/12/2022
+ Last Updated on 01/01/2023
 <!--END_SECTION:waka-->
