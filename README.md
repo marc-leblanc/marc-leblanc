@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2030%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 122 Contributions in the Year 2023
+> 🏆 131 Contributions in the Year 2023
  > 
 > 📦 245.1 kB Used in GitHub's Storage 
  > 
@@ -32,5 +32,5 @@ Linux                    9 hrs 26 mins       ███████████�
 ```
 
 
- Last Updated on 12/03/2023
+ Last Updated on 13/03/2023
 <!--END_SECTION:waka-->
