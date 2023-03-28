@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 310 Contributions in the Year 2023
+> 🏆 306 Contributions in the Year 2023
  > 
 > 📦 201.6 kB Used in GitHub's Storage 
  > 
