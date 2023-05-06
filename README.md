@@ -5,7 +5,7 @@
 
 > 🏆 466 Contributions in the Year 2023
  > 
-> 📦 208.1 kB Used in GitHub's Storage 
+> 📦 208.3 kB Used in GitHub's Storage 
  > 
 > 📜 38 Public Repositories 
  > 
