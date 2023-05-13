@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2032%20mins-blue)
 
 **🐱 My GitHub Data** 
 
