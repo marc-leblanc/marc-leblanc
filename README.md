@@ -17,14 +17,13 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   49 mins             ████████████████████░░░░░   81.79% 
-Text                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.21%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
