@@ -17,14 +17,13 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 2 mins              ███████████████████████░░   92.45% 
-Ezhil                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   7.55%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
