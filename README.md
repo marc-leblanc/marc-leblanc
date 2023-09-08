@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%207%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -17,13 +17,15 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     2 mins              ████████████████░░░░░░░░░   65.61% 
+Markdown                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   22.59% 
+Terraform                0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.8%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.0%
 
 ```
 
