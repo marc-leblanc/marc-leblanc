@@ -3,6 +3,8 @@
 
 **🐱 My GitHub Data** 
 
+> 🏆 768 Contributions in the Year 2023
+ > 
 > 📦 222.8 kB Used in GitHub's Storage 
  > 
 > 📜 40 Public Repositories 
