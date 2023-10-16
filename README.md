@@ -17,13 +17,14 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               0 secs              ███████████████████████░░   92.03% 
+GDScript3                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   7.97%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
