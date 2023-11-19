@@ -35,4 +35,4 @@ Linux                    3 hrs 28 mins       ███████████�
  Last Updated on 19/11/2023
 <!--END_SECTION:waka-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marc-leblanc&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marc-leblanc&show_icons=true&theme=radical)
