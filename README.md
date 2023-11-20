@@ -4,5 +4,5 @@
 [![Marc's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcleblanc&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ---------------------------
 ---------------------------
-[![Marc's GitHub stats](https://staging-github-readme-stats.vercel.app/api?wakatime=marc-leblanc&theme=algolia)](https://github.com/marc-leblanc/github-readme-stats)
+[![Marc's WakaTime stats](https://staging-github-readme-stats.vercel.app/api/wakatime?username=marc-leblanc&theme=algolia)](https://github.com/marc-leblanc/github-readme-stats)
 
