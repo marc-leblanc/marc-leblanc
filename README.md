@@ -5,4 +5,3 @@
 ---------------------------
 ---------------------------
 [![Marc's WakaTime stats](https://staging-github-readme-stats-git-staging-marc-leblancs-projects.vercel.app/api/wakatime?username=marcleblanc&theme=algolia")]
-
